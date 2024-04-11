@@ -1,3 +1,5 @@
+here is the video link: https://drive.google.com/file/d/1hfsO3cIun1yyC1QWKCZaO2wvcZPBEt-P/view?usp=sharing
+
 Challenges Encountered During Model Training and Optimization:
 A) Limited computational resources can slow down the training process.
   Finding the optimal set of parameters can be challenging it can be sometimes underfitting or overfitting
